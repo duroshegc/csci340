@@ -1,0 +1,2 @@
+# CSCI 340: Data Structures and Algorithm
+The application of analysis and design techniques to nonnumeric algorithms acting on data structures. Utilization of algorithmic analysis and design criteria in the selection of methods for data manipulation
