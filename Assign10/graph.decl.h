@@ -42,7 +42,7 @@ class Graph {
   std::map<std::string, size_t> v_lut; // for label -> index look up table
 
   std::vector <GraphEdge>   edges;     // edge list
-  
+   
   StudentExtra student; // you can add members to this in config.h
 
   public:
